@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "serviceIds": "all",
+    "title": "So Saap Chicken Skin",
+    "category": "Food & Wellness",
+    "subtitle": "Crispy chicken-skin snack brand · Minimog theme.",
+    "features": [
+      "Custom Liquid sections",
+      "Theme editor schema controls",
+      "Product page improvements"
+    ],
+    "image": "/assets/img/portfolio/1.jpg",
+    "link": "https://example.com",
+    "linkLabel": "View Store"
+  },
+  {
+    "id": 2,
+    "serviceIds": "all",
+    "title": "Blome Industrial",
+    "category": "Specialty & Industrial",
+    "subtitle": "Industrial paints, coatings & adhesives · Dawn theme.",
+    "features": [
+      "Shopify theme customization",
+      "Custom hero section",
+      "Theme editor schema controls"
+    ],
+    "image": "/assets/img/portfolio/2.jpg",
+    "link": "https://example.com",
+    "linkLabel": "View Store"
+  },
+  {
+    "id": 3,
+    "serviceIds": "all",
+    "title": "Black Ribbon",
+    "category": "Home & Lifestyle",
+    "subtitle": "Dark-luxury handcrafted candles & soaps · Minimog theme.",
+    "features": [
+      "Custom Liquid sections",
+      "Brand-driven homepage build",
+      "Mobile optimization"
+    ],
+    "image": "/assets/img/portfolio/3.jpg",
+    "link": "https://example.com",
+    "linkLabel": "View Store"
+  },
+  {
+    "id": 4,
+    "serviceIds": "all",
+    "title": "Kith & Kin",
+    "category": "Apparel & Streetwear",
+    "subtitle": "Urban luxury streetwear label · Impulse theme.",
+    "features": [
+      "Interactive lookbook showcase",
+      "Custom size & fit guide",
+      "High-converting drawer cart"
+    ],
+    "image": "/assets/img/portfolio/4.jpg",
+    "link": "https://example.com",
+    "linkLabel": "View Store"
+  },
+  {
+    "id": 5,
+    "serviceIds": "all",
+    "title": "Lullaby Nest",
+    "category": "Baby & Family",
+    "subtitle": "Organic cotton baby gear & nursery decor · Broadcast theme.",
+    "features": [
+      "Product bundle builder",
+      "Subscription box integration",
+      "Custom multi-tier filtering"
+    ],
+    "image": "/assets/img/portfolio/5.jpg",
+    "link": "https://example.com",
+    "linkLabel": "View Store"
+  },
+  {
+    "id": 6,
+    "serviceIds": "all",
+    "title": "Nordic Haven",
+    "category": "Home & Lifestyle",
+    "subtitle": "Scandinavian minimalist home furniture · Prestige theme.",
+    "features": [
+      "3D model viewer integration",
+      "Interactive room planner",
+      "Multi-currency geo-routing"
+    ],
+    "image": "/assets/img/portfolio/6.jpg",
+    "link": "https://example.com",
+    "linkLabel": "View Store"
+  },
+  {
+    "id": 7,
+    "serviceIds": "all",
+    "title": "Vanguard Athletics",
+    "category": "Apparel & Streetwear",
+    "subtitle": "Performance sportswear & fitness gear · Symmetry theme.",
+    "features": [
+      "Athlete endorsement sliders",
+      "Dynamic stock countdown",
+      "Custom swatch selector"
+    ],
+    "image": "/assets/img/portfolio/7.jpg",
+    "link": "https://example.com",
+    "linkLabel": "View Store"
+  },
+  {
+    "id": 8,
+    "serviceIds": "all",
+    "title": "Aura Botanical",
+    "category": "Food & Wellness",
+    "subtitle": "Organic herbal teas and adaptogenic wellness drinks.",
+    "features": [
+      "Personalized dosage quiz",
+      "Recharge subscription portal",
+      "Nutrition facts schema"
+    ],
+    "image": "/assets/img/portfolio/8.jpg",
+    "link": "https://example.com",
+    "linkLabel": "View Store"
+  },
+  {
+    "id": 9,
+    "serviceIds": "all",
+    "title": "Apex Precision Parts",
+    "category": "Specialty & Industrial",
+    "subtitle": "High-tolerance CNC machining & hardware solutions.",
+    "features": [
+      "Wholesale B2B gated catalog",
+      "Request a quote RFQ engine",
+      "Technical PDF spec downloads"
+    ],
+    "image": "/assets/img/portfolio/9.jpg",
+    "link": "https://example.com",
+    "linkLabel": "View Store"
+  },
+  {
+    "id": 10,
+    "serviceIds": "all",
+    "title": "Little Sprout Co.",
+    "category": "Baby & Family",
+    "subtitle": "Montessori developmental toys for toddlers · Pipeline theme.",
+    "features": [
+      "Age-based recommendation engine",
+      "Gift registry integration",
+      "Bundle & save discount logic"
+    ],
+    "image": "/assets/img/portfolio/10.jpg",
+    "link": "https://example.com",
+    "linkLabel": "View Store"
+  },
+  {
+    "id": 11,
+    "serviceIds": "all",
+    "title": "Nomad Active",
+    "category": "Apparel & Streetwear",
+    "subtitle": "Technical outerwear and recycled eco-wear.",
+    "features": [
+      "Live environmental impact tracker",
+      "Custom product comparison grid",
+      "Speed-optimized mobile layout"
+    ],
+    "image": "/assets/img/portfolio/11.jpg",
+    "link": "https://example.com",
+    "linkLabel": "View Store"
+  },
+  {
+    "id": 12,
+    "serviceIds": "all",
+    "title": "Zenith Botanicals",
+    "category": "Home & Lifestyle",
+    "subtitle": "Botanical scents & artisanal ultrasonic diffusers.",
+    "features": [
+      "Scent match recommendation flow",
+      "Automated refill refills club",
+      "Customer video review gallery"
+    ],
+    "image": "/assets/img/portfolio/12.jpg",
+    "link": "https://example.com",
+    "linkLabel": "View Store"
+  }
+]

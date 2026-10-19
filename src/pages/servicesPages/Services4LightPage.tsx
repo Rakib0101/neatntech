@@ -7,6 +7,7 @@ import PriceV1 from "../../components/price/PriceV1";
 import ServicesV5 from "../../components/services/ServicesV5";
 import TestimonialV2 from "../../components/testimonial/TestimonialV2";
 import ThemeLight from "../../components/switcher/ThemeLight";
+import ServiceProjectsFilter from "../../components/services/ServiceProjectsFilter";
 
 const Services4LightPage = () => {
     return (
@@ -18,6 +19,9 @@ const Services4LightPage = () => {
             <LayoutV1>
                 <Breadcrumb title='Our Services' breadCrumb='services-4-light' />
                 <ServicesV5 />
+                <div className="container default-padding-bottom">
+                    <ServiceProjectsFilter customTitle="Selected Projects" />
+                </div>
                 <FunFactV1 sectionClass='default-padding' />
                 <ClientsV1 sectionClass='bg-gray' />
                 <TestimonialV2 />

@@ -3,8 +3,10 @@ import portfolio45 from "/assets/img/portfolio/45.jpg";
 import portfolio46 from "/assets/img/portfolio/46.jpg";
 import ServicesV1Data from "../../../src/assets/jsonData/services/ServicesV1Data.json";
 import { Link } from "react-router-dom";
+import ServiceProjectsFilter from "./ServiceProjectsFilter";
 
 interface DataType {
+    id?: number;
     title?: string;
 }
 
@@ -14,7 +16,7 @@ interface ServiceDetailsProps {
 }
 
 const ServiceDetailsContent = ({ serviceInfo, sectionClass }: ServiceDetailsProps) => {
-    const { title } = serviceInfo || {};
+    const { id, title } = serviceInfo || {};
 
     return (
         <>
@@ -146,6 +148,10 @@ const ServiceDetailsContent = ({ serviceInfo, sectionClass }: ServiceDetailsProp
                                 </p>
                             </div>
                         </div>
+
+                        {/* Projects Filter Tab Section */}
+                        <ServiceProjectsFilter serviceId={id} serviceTitle={title} />
+
                         <div className="services-more mt-100 mt-xs-30">
                             <h2 className="mb-20">Most popular services</h2>
                             <div className="row">
